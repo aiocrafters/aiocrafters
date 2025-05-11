@@ -3,6 +3,14 @@
 Welcome to **AIOCrafters**, your hub for simple, efficient online tools designed to streamline everyday tasks. We focus on building fast, privacy-respecting, and intuitive utilities that solve real problems — no downloads, no fluff, just results.
 
 ---
+## 🧪 Test Our Live Apps
+
+Try one of our most popular tools right now:
+
+🔑 [**Password Generator**](https://aiocrafters.github.io/password-generator/)  
+Create strong, secure passwords in seconds — no sign-up, no tracking, just results.
+
+> _"Simple tools, powerful impact."_
 
 ## 🚀 Why AIOCrafters?
 
